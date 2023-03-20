@@ -1,0 +1,6 @@
+2023-03-06T19:23:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\abdullahproject\wordpress\wp-content\plugins\jetpack\_inc\lib\core-api\class.jetpack-core-api-module-endpoints.php on line 1831
+
+2023-03-06T19:23:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\abdullahproject\wordpress\wp-content\plugins\jetpack\_inc\lib\core-api\class.jetpack-core-api-module-endpoints.php on line 1831
+
+2023-03-06T19:23:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\abdullahproject\wordpress\wp-includes\IXR\class-IXR-server.php on line 221
+

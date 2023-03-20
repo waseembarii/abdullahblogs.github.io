@@ -1,0 +1,27 @@
+2023-02-24T11:15:44+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\abdullahproject\wordpress\wp-content\plugins\wp-hide-security-enhancer\include\admin-interfaces\security-scan.class.php:656
+Stack trace:
+#0 C:\xampp\htdocs\abdullahproject\wordpress\wp-includes\class-wp-hook.php(308): WPH_security_scan->wp_ajax_wph_site_scan_progress('')
+#1 C:\xampp\htdocs\abdullahproject\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\abdullahproject\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\abdullahproject\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wph_sit...')
+#4 {main}
+  thrown in C:\xampp\htdocs\abdullahproject\wordpress\wp-content\plugins\wp-hide-security-enhancer\include\admin-interfaces\security-scan.class.php on line 656
+
+2023-02-24T11:15:45+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\abdullahproject\wordpress\wp-content\plugins\wp-hide-security-enhancer\include\admin-interfaces\security-scan.class.php:656
+Stack trace:
+#0 C:\xampp\htdocs\abdullahproject\wordpress\wp-includes\class-wp-hook.php(308): WPH_security_scan->wp_ajax_wph_site_scan_progress('')
+#1 C:\xampp\htdocs\abdullahproject\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\abdullahproject\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\abdullahproject\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wph_sit...')
+#4 {main}
+  thrown in C:\xampp\htdocs\abdullahproject\wordpress\wp-content\plugins\wp-hide-security-enhancer\include\admin-interfaces\security-scan.class.php on line 656
+
+2023-02-24T11:15:47+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\abdullahproject\wordpress\wp-content\plugins\wp-hide-security-enhancer\include\admin-interfaces\security-scan.class.php:656
+Stack trace:
+#0 C:\xampp\htdocs\abdullahproject\wordpress\wp-includes\class-wp-hook.php(308): WPH_security_scan->wp_ajax_wph_site_scan_progress('')
+#1 C:\xampp\htdocs\abdullahproject\wordpress\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\abdullahproject\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\abdullahproject\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_wph_sit...')
+#4 {main}
+  thrown in C:\xampp\htdocs\abdullahproject\wordpress\wp-content\plugins\wp-hide-security-enhancer\include\admin-interfaces\security-scan.class.php on line 656
+
